@@ -14,5 +14,7 @@ For authentication firebase-auth is used
 ### About the app
 
 Users will be able to login / logout
+
 Users will be able to create and delete projects
+
 Chat feature is also present
